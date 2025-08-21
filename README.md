@@ -1,5 +1,5 @@
 Dukaan is a modern, responsive e-commerce landing page built with HTML, CSS, and JavaScript.
-It is designed as part of my Cognifyz Technologies Frontend Internship (Task 3), showcasing professional web design skills with responsiveness, animations, and user-friendly UI.
+Showcasing professional web design skills with responsiveness, animations, and user-friendly UI.
 
 ✨ Features
 
